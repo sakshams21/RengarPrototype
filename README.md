@@ -70,6 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have questions, suggestions, or want to share your experiences with Rengar's mechanics, feel free to contact us:
 
-- 📧 Email:ss21Gaming@gmail.com
+- 📧 Email: ss21Gaming@gmail.com
 
 Happy hunting! 🐱‍👤🌲
