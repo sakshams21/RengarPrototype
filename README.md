@@ -19,7 +19,7 @@ Welcome to the Unity Rengar Mechanics Prototype repository! This project aims to
 
 ### Installation
 
-1. 🧪 Clone this repository: `git clone https://github.com/your-username/rengar-mechanics-prototype.git`
+1. 🧪 Clone this repository: `git clone https://github.com/sakshams21/rengar-mechanics-prototype.git`
 2. 🎮 Open the project in Unity.
 3. 🌠 Open the `RengarPrototypeScene` scene.
 4. ▶️ Play the scene to unleash Rengar's mechanics.
