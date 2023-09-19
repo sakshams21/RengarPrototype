@@ -30,6 +30,22 @@ Welcome to the Unity Rengar Mechanics Prototype repository! This project aims to
 - 🏹 Customize settings and parameters in Unity's Inspector to experiment with Rengar's gameplay.
 - 📜 Dive into the code to understand how Rengar's mechanics are implemented.
 
+## To-Do List 📝
+
+### Core Gameplay Mechanics 🎮
+
+1. **Ability Showcase**: Implement Rengar's Abilities (Q, W, E) and ensure they interact seamlessly with his basic abilities.
+
+2. **Thrill of the Hunt**: Create the Thrill of the Hunt ultimate ability, including stealth mechanics, tracking, and bonus movement speed.
+
+### Polish and User Experience ✨
+
+4. **UI Improvements**: Enhance the user interface (UI) to display ability cooldowns, buffs, and other relevant information during gameplay.
+
+5. **Particle Effects**: Implement visual and sound effects for Rengar's abilities and interactions, making gameplay more immersive.
+
+6. **Camera Enhancements**: Improve camera controls and transitions for smoother gameplay experiences.
+   
 ## 🤝 Contributing
 
 Contributions are as welcome as Rengar's next prey! If you want to enhance the prototype, fix issues, or expand Rengar's abilities, please follow these steps:
